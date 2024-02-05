@@ -1,6 +1,6 @@
 # Project Title
 
-Short project description goes here.
+COVID Bed Slot Management System
 
 ## Table of Contents
 
