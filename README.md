@@ -126,3 +126,10 @@ Include screenshots of your project to provide visual representation.
 ## PDF
 
 You can view the project documentation in PDF format [here](https://github.com/kartikhegadi/DBMS-project/blob/main/report/Final_review.pdf).
+
+## References
+
+my references [here](https://www.youtube.com/watch?v=Avqr4Iqd2wg)
+[here]https://github.com/AM-Darshan/Covid_bed_slot_booking
+[here]https://github.com/amoghsbharadwaj/Covid-Bed-Slot-Booking-System
+
