@@ -116,13 +116,13 @@ My goal was to enhance the project's functionality and maintainability by ensuri
 Include screenshots of your project to provide visual representation.
 
 ----------------------------------------------------------------------------
-![Screenshot 2](/Users/kartikhegadi/Desktop/covid/DBMS-project/DBMS-project/images/img2.png)
+![Screenshot 2](https://github.com/kartikhegadi/DBMS-project/blob/main/images/img1.png)
 ----------------------------------------------------------------------------
-![Screenshot 1](/Users/kartikhegadi/Desktop/covid/DBMS-project/DBMS-project/images/img1.png)
+![Screenshot 1](https://github.com/kartikhegadi/DBMS-project/blob/main/images/img2.png)
 ----------------------------------------------------------------------------
-![Screenshot 1](/Users/kartikhegadi/Desktop/covid/DBMS-project/DBMS-project/images/img3.png)
+![Screenshot 1](https://github.com/kartikhegadi/DBMS-project/blob/main/images/img3.png)
 ----------------------------------------------------------------------------
 
 ## PDF
 
-You can view the project documentation in PDF format [here](/Users/kartikhegadi/Desktop/covid/DBMS-project/DBMS-project/report/Final_review.pdf).
+You can view the project documentation in PDF format [here](https://github.com/kartikhegadi/DBMS-project/blob/main/report/Final_review.pdf).
